@@ -1,0 +1,27 @@
+# Eclipse
+bin/
+**/.project
+.settings/
+.classpath
+.cache-main
+
+# IntelliJ
+.idea
+
+# Linux
+*~
+
+# Mac
+.DS_Store
+
+# NodeJS
+node_modules
+npm-debug.log
+
+temp/
+/xunit.xml
+
+.nyc_output/
+
+./db.json
+./src/db.json

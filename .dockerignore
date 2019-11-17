@@ -1,0 +1,9 @@
+node_modules/
+test/
+.idea/
+.editorconfig
+.eslintrc.json
+*.iml
+
+./db.json
+./src/db.json
